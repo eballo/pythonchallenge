@@ -16,6 +16,8 @@ alphabet_plus_three = "cdefghijklmnopqrstuvwxyzab ()."
 
 # create a tuple with the value, and translation value
 list = list(zip(alphabet, alphabet_plus_three))
+print("SOLUTION 1")
+print("----------------------")
 print(list)
 
 nmessage = ""
@@ -28,3 +30,22 @@ for i in range( len(message) ):
 
 print("Encrypted message: " + message)
 print("Decrypted message: " + nmessage)
+
+print("----------------------")
+print("SOLUTION 2")
+
+translation = message.maketrans(alphabet, alphabet_plus_three)
+
+# translate string
+print("Translated string:", message.translate(translation))
+
+print("APPLY to the URL")
+print("----------------------")
+
+#url : http://www.pythonchallenge.com/pc/def/map.html
+url ="map"
+
+translation = url.maketrans(alphabet, alphabet_plus_three)
+
+# translate string
+print("Translated string:", url.translate(translation))

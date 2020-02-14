@@ -3,4 +3,5 @@
 # in by hand is inefficient and thats why this text is so long. using
 # string.maketrans() is recommended. now apply on the url.
 #
-# http://www.pythonchallenge.com/pc/def/string.maketrans.html
+# http://www.pythonchallenge.com/pc/def/maketrans.html
+# http://www.pythonchallenge.com/pc/def/ocr.html
