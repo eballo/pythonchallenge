@@ -32,4 +32,4 @@ python 00.py
 
 
 <!-- Markdown link & img -->
-[logo]: https://github.com/eballo/pychallange/logo/logo.jpg
+[logo]: https://github.com/eballo/pythonchallenge/blob/main/logo/logo.jpg
