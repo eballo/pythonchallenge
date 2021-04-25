@@ -29,6 +29,8 @@ python 00.py
 * 07 - smarty files
 * 08 - working hard files
 * 09 - connect the dots files
+* 10 - what are you looking at
+* 11 - odd event
 
 
 <!-- Markdown link & img -->

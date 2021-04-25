@@ -1,4 +1,6 @@
 # http://www.pythonchallenge.com/pc/return/good.html
+# user: 'huge'
+# pass: 'file'
 
 import PIL.ImageDraw as ImageDraw
 import PIL.Image as Image
